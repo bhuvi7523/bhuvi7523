@@ -1,0 +1,3 @@
+yum install httpd
+ststemctl start httpd
+systemctl status httpd
